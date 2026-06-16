@@ -6,5 +6,7 @@ Since I use it most to listen to music, I decided to keep a music theme for this
 <img width="1082" height="1116" alt="image" src="https://github.com/user-attachments/assets/85412584-c436-47e1-999a-f26871a107f4" />
 <img width="1049" height="1024" alt="image" src="https://github.com/user-attachments/assets/0d4ef80f-7eae-4675-a8c3-0ec0f34ae41b" />
 #  BOM
-Material,	Amount,	Price, Print Vendor
-PLA Plastic,	25 g,	$7.13, https://www.atx3dprintingservice.com/
+
+| Material | Amount | Price | Print Vendor |
+| :--- | :--- | :--- | :--- |
+| PLA Plastic | 25 g | $7.13 | [ATX 3D Printing Service](https://www.atx3dprintingservice.com/) |
